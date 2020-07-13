@@ -7,7 +7,7 @@ Github Link = https://github.com/rahul263-stack/Boston-Airbnb-Data-Analysis
 The data is downloaded from  and is from Seattle based listings.
   https://www.kaggle.com/airbnb/boston
   
-Business Questions answered during the analysis 
+# Business Questions answered during the analysis 
 Q1  What is the response time of the hosts, type of listed properties in the Boston city, performance of the listings in the Boston cities?
 ANS- After analysing the data set we can say that the response time of nearly all the listings in Boston Is recommendable, and we have also observed that the maximum ammount of properties in Boston belongs to Either Apartment type or Home, And filnally the reviews are very recommendable as maximum rating listings are above 8.
 
@@ -18,18 +18,18 @@ Ans1.-The average price of home or apartment is more as compare to other types l
 Q3 What is the peak season in Boston?
 Ans -Boston August to November is the peak season, with September the highest. we can also analyze the year starts slow as the first three months have the lowest avg price. the peak season of September is due to favourable weather condition not hot with some chances of rain.
 
-There are 3 datasets used in this analysis:
+# DATASET There are 3 datasets used in this analysis:
 1) Listings - Detailed Listing Data for Seattle
 2) Reviews - Detailed Review data for listins in Seattle
 4) Calendar - Detailed Calendar Data for listings in Seattle
 
-Libraries Used
+# Libraries Used
 Numpy
 Pandas
 Seaborn
 Matplotlib
 
-Exploratory data analysis includes:
+# Exploratory data analysis includes:
 
 -> host reponse time
 
@@ -48,7 +48,7 @@ Exploratory data analysis includes:
 -> Map of listings and prices
 Median Blog  Link -https://medium.com/@rahulpathak263/airbnb-data-analysis-for-boston-5e58e821b216
 
-Licensing, Authors, Acknowledgements
+# Licensing, Authors, Acknowledgements
   The data is being taken from Kaggle, from airbnb open daata set of boston.
   Thanks Udacity For providing Me this project.
 
